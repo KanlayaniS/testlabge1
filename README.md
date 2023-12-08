@@ -11,7 +11,7 @@
 | Pat   | Text        | And more      | |
 
 # Let see our team! 👋
-![work1](work1/0.png)
+- ![work1](work1/0.png)
 <p align="center">
   <img src="work1/0.png" width="350" height="350" title="img1">
 </p>
